@@ -2,7 +2,6 @@
 
 import { useChat } from "@ai-sdk/react";
 import { SendHorizontalIcon } from "lucide-react";
-import Image from "next/image";
 import { useEffect, useRef } from "react";
 import { toast } from "sonner";
 
